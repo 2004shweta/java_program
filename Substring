@@ -1,4 +1,4 @@
-class GFG {
+class Substring {
     
     static boolean isSubSeq(String s1, String s2, int n, int m){
         int j = 0;
